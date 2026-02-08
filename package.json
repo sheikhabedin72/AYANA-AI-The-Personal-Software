@@ -15,7 +15,12 @@
     "@codesandbox/sandpack-react": "latest",
     "ai": "latest",
     "@ai-sdk/google": "latest",
+    "@google/genai": "latest",
+    "framer-motion": "latest",
+    "clsx": "latest",
+    "tailwind-merge": "latest",
     "vite": "latest",
-    "@vitejs/plugin-react": "latest"
+    "@vitejs/plugin-react": "latest",
+    "typescript": "latest"
   }
 }
