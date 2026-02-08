@@ -1,0 +1,8 @@
+{
+  "name": "AYANA AI: The Personal Software Factory",
+  "description": "A high-performance multi-agent AI system for rapid software generation with live sandboxed previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
